@@ -1,0 +1,47 @@
+/*h1 {
+  font-size: 200px;
+}*/
+
+.task
+{
+  font-size: 200%;
+  font-family: cursive;
+}
+
+.toDoDone
+{
+   text-decoration: line-through;
+}
+
+body 
+{
+  font-family: helvetica;
+}
+
+#toDoForm 
+{
+  text-align: center; 
+  padding: 40px;
+  font-size: 200%;
+}
+
+#toDoForm input[type="text"]{
+/*  padding:20px;*/
+font-size: 100%;
+}
+
+#toDoForm #addButton{
+font-size: 100%;
+}
+
+#tasks {
+text-align: center;
+}
+
+.task img {
+margin-left: 20px; 
+}
+
+
+
+
